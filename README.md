@@ -1,5 +1,5 @@
-# Suggestions
-This is Floor Gang bot, it auto-reacts with emojis in a given channel.
+# Auto React Bot
+For sending reactions to certain channels
 
 ## Usage
 ```

@@ -1,7 +1,7 @@
 package internal
 
 import (
-	auth "github.com/Floor-Gang/authclient"
+	auth "github.com/NewCircuit/authclient"
 	dg "github.com/bwmarrin/discordgo"
 	"log"
 )
