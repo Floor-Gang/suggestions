@@ -1,0 +1,34 @@
+{
+  "name": "autoreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./builds/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NewCircuit/autoreact.git"
+  },
+  "author": "",
+  "license": "gpl-3.0",
+  "bugs": {
+    "url": "https://github.com/NewCircuit/autoreact/issues"
+  },
+  "homepage": "https://github.com/NewCircuit/autoreact#readme",
+  "dependencies": {
+    "@types/js-yaml": "^4.0.0",
+    "@types/node": "^14.14.31",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.12.2",
+    "js-yaml": "^4.0.0",
+    "typescript": "^4.2.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "eslint": "^7.20.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
